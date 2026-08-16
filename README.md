@@ -1,36 +1,36 @@
-<h1 align="center">Merhaba, ben Hikmet </h1>
+<h1 align="center">Merhaba, ben Hikmet</h1>
 <h3 align="center">Yazılımcı · Öğrenci · Oyun Geliştirici</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Kod+yaz%C4%B1yorum;Oyun+geli%C5%9Ftiriyorum;S%C3%BCrekli+%C3%B6%C4%9Frreniyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=entrywordle.com" alt="Typing SVG" />
 </p>
 
 ---
 
-###  Hakkımda
+### Hakkımda
 
 Yazılımla uğraşan bir öğrenciyim, aynı zamanda oyun geliştiriyorum. Fikirleri koddan gerçek ürünlere dönüştürmeyi seviyorum.
 
 ---
 
-###  Champer Game Studios
+### Champer Game Studios
 
 Kurucusuyum. Studio çatısı altında oyun ve eğlence odaklı projeler geliştiriyorum.
 
- Instagram: [@champergamestudios](https://instagram.com/champergamestudios)
- Mail: champergamestudios@gmail.com
+Instagram: [@champergamestudios](https://instagram.com/champergamestudios)
+Mail: champergamestudios@gmail.com
 
 ---
 
-###  Projelerim
+### Projelerim
 
-**[Entry](https://entrywordle.com)** — Türkiye'nin e-spor temalı kelime oyunu 
+**[Entry](https://entrywordle.com)** — Türkiye'nin e-spor temalı kelime oyunu
 VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deneyimi. Klasik ve Rekabetçi modlar, coin ekonomisi, liderlik tablosu ve daha fazlası.
- [entrywordle.com](https://entrywordle.com)
+[entrywordle.com](https://entrywordle.com)
 
 ---
 
-###  Kullandığım Teknolojiler
+### Kullandığım Teknolojiler
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,7 +41,7 @@ VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deney
 
 ---
 
-###  GitHub İstatistikleri
+### GitHub İstatistikleri
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=champerhiko&show_icons=true&theme=radical" />
@@ -50,13 +50,10 @@ VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deney
 
 ---
 
-###  Bana Ulaş
+### Bana Ulaş
 
 <p align="left">
   <a href="https://x.com/hikofps" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://entrywordle.com" target="_blank">
-    <img src="https://img.shields.io/badge/Entry-FF0000?style=for-the-badge&logo=googleplay&logoColor=white" />
   </a>
 </p>
