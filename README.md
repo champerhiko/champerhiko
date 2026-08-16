@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Hikmet</h1>
+<h1 align="center">Merhaba, ben Hikmet 'Champer' Aydin</h1>
 <h3 align="center">Yazılımcı · Öğrenci · Oyun Geliştirici</h3>
 
 <p align="center">
