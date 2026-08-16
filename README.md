@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, ben Hikmet 'Champer' Aydin</h1>
-<h3 align="center">Yazılımcı · Öğrenci · Oyun Geliştirici</h3>
+<h3 align="center">Öğrenci · Keyfi  Oyun Geliştirici · Espor Duayeni :) </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=entrywordle.com" alt="Typing SVG" />
