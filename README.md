@@ -9,13 +9,13 @@
 
 ### Hakkımda
 
-Yazılımla uğraşan bir öğrenciyim, aynı zamanda oyun geliştiriyorum. Fikirleri koddan gerçek ürünlere dönüştürmeyi seviyorum.
+Yazılımla uğraşan bir öğrenciyim, aynı zamanda oyun geliştiriyorum.
 
 ---
 
 ### Champer Game Studios
 
-Kurucusuyum. Studio çatısı altında oyun ve eğlence odaklı projeler geliştiriyorum.
+Kurucusuyum. Studio çatısı altında espor odaklı projeler geliştiriyorum.
 
 Instagram: [@champergamestudios](https://instagram.com/champergamestudios)
 Mail: champergamestudios@gmail.com
@@ -24,7 +24,7 @@ Mail: champergamestudios@gmail.com
 
 ### Projelerim
 
-**[Entry](https://entrywordle.com)** — Türkiye'nin e-spor temalı kelime oyunu
+**[Entry](https://entrywordle.com)** — E-spor temalı kelime oyunu
 VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deneyimi. Klasik ve Rekabetçi modlar, coin ekonomisi, liderlik tablosu ve daha fazlası.
 [entrywordle.com](https://entrywordle.com)
 
