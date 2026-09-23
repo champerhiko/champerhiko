@@ -9,13 +9,18 @@
 
 ### Hakkımda
 
-Yazılımla uğraşan bir öğrenciyim, aynı zamanda oyun geliştiriyorum.
+Founder of Champer Game Studios
+Champer Game Studios Head of Marketing
+Champer Game Studios Head of Public Relations
+BLGMUN'26 Head of IT
+
+
 
 ---
 
 ### Champer Game Studios
 
-Founder of Champer Games Studios
+Champer Game Studios, 2026 yılında kurulan Samsun merkezli bağımsız bir oyun stüdyosudur. Türk e-sporuna ve Türk oyun sektörüne katkı sağlamak amacıyla kurulmuş olup, geliştirdiği uygulamalar aracılığıyla kullanıcılarına ödüller dağıtmaktadır.
 
 Instagram: [@champergamestudios](https://instagram.com/champergamestudios)
 Mail: champergamestudios@gmail.com
