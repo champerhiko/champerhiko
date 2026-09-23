@@ -43,14 +43,6 @@ VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deney
 
 ---
 
-### GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=champerhiko&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champerhiko&layout=compact&theme=radical" />
-</p>
-
----
 
 ### Bana Ulaş
 
