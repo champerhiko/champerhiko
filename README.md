@@ -26,7 +26,7 @@ Mail: champergamestudios@gmail.com
 
 ### Projelerim
 
-**[Entry](https://entrywordle.com)** — E-spor temalı kelime oyunu
+**[Entry Wordle](https://entrywordle.com)** — E-spor temalı kelime oyunu
 VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deneyimi. Klasik ve Rekabetçi modlar, coin ekonomisi, liderlik tablosu ve daha fazlası.
 [entrywordle.com](https://entrywordle.com)
 
