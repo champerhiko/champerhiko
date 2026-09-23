@@ -15,7 +15,7 @@ Yazılımla uğraşan bir öğrenciyim, aynı zamanda oyun geliştiriyorum.
 
 ### Champer Game Studios
 
-Kurucusuyum. Studio çatısı altında espor odaklı projeler geliştiriyorum.
+Founder of Champer Games Studios
 
 Instagram: [@champergamestudios](https://instagram.com/champergamestudios)
 Mail: champergamestudios@gmail.com
@@ -30,7 +30,7 @@ VALORANT, CS2, League of Legends ve PUBG Mobile temalı kelimelerle Wordle deney
 
 ---
 
-### Kullandığım Teknolojiler
+### 🐧🐧🐧
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
