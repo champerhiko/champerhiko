@@ -9,10 +9,7 @@
 
 ### Hakkımda
 
-Founder of Champer Game Studios
-Champer Game Studios Head of Marketing
-Champer Game Studios Head of Public Relations
-BLGMUN'26 Head of IT
+**Founder** of Champer Game Studios,Champer Game Studios **Head of Marketing** ,Champer Game Studios **Head of Public Relations** ,BLGMUN'26 **Head of IT**
 
 
 
