@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Hikmet 'Champer' Aydin</h1>
+<h1 align="center">Hikmet Alp 'Champer' Aydin</h1>
 <h3 align="center">Kendine Göre  Game  Dev · Espor Duayeni </h3>
 
 <p align="center">
